@@ -23,6 +23,3 @@ A responsive Bill Splitter web application built using HTML, CSS, and JavaScript
 4. Click the **Start** button.
 5. The application calculates how much each person should pay.
 
-## Live Demo
-
-Add your GitHub Pages link here after publishing.
